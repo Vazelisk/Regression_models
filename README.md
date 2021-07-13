@@ -4,4 +4,5 @@
 Ссылка на блог с отчетами о проделанной работе: https://www.tumblr.com/blog/courserapractice
 
 Ссылка на курс: https://www.coursera.org/learn/regression-modeling-practice
-[Coursera 8TLG75FS6CMN.pdf](https://github.com/Vazelisk/coursera/files/6808088/Coursera.8TLG75FS6CMN.pdf)
+
+![image](https://user-images.githubusercontent.com/42929213/125435622-7beb657d-201f-4ee6-ad5f-9f2c13becb8d.png)
